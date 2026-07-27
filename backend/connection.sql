@@ -1,0 +1,1 @@
+CREATE DATABASE pharma_qms;

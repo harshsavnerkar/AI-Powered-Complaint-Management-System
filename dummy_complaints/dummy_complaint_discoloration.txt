@@ -1,0 +1,17 @@
+From: Hospital Pharmacy Quality Officer <pharmacy.intake@cityhospital.com>
+Date: July 28, 2026
+Subject: URGENT: Discolored Tablets and Patient Adverse Event - Batch B2024
+To: quality.control@pharmaqms.com
+
+Dear Quality Assurance Team,
+
+We are writing to report a serious issue regarding Paracetamol 500mg tablets, Batch Number B2024. 
+Several tablets in this batch were found to be discolored with a yellowish tint and had a strong, chemical odor upon opening the bottle.
+Furthermore, one of our patients reported feeling severely nauseous and dizzy shortly after taking a dose from this batch. 
+
+We have quarantined the remaining stock of 150 bottles at our pharmacy. Please let us know the return/investigation protocol immediately.
+
+Regards,
+Dr. Ramesh Sharma
+Head of Pharmacy, City Hospital
+ramesh.sharma@cityhospital.com

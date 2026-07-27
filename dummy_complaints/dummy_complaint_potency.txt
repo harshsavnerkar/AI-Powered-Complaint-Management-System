@@ -1,0 +1,16 @@
+From: Apex Distributors <orders@apexmed.com>
+Date: July 28, 2026
+Subject: Efficacy issue reported by clinics - Amoxicillin 250mg - Batch AMX779
+To: complaints@pharmaqms.com
+
+Dear QA Team,
+
+We have received multiple complaints from pediatric clinics regarding Amoxicillin 250mg Suspension, Batch Number AMX779, Expiry Date 11/2027.
+Two clinics have reported that patients did not show standard clinical improvement when taking this batch compared to previous lots. They suspect a sub-potency or active ingredient stability issue.
+
+Please investigate this batch and provide a replacement as soon as possible.
+
+Best regards,
+Sarah Jenkins
+Quality Liaison, Apex Distributors
+s.jenkins@apexmed.com
