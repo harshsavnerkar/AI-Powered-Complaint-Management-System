@@ -1,0 +1,15 @@
+From: Saint Jude Hospital QA Coordinator <qa@stjudehospital.org>
+Date: July 28, 2026
+Subject: URGENT: Glass Shard Contamination in Water for Injection - Batch WFI092
+To: quality.control@pharmaqms.com
+
+Dear Quality Assurance Team,
+
+We are reporting an extremely critical issue with your Water for Injection Ampoules (5mL), Batch Number WFI092. 
+A hospital nurse discovered small, visible glass shards inside three separate ampoules of this batch upon snapping them open for dilution. 
+
+The manufacturing date printed on the packaging was 5th June 2025 and the expiry date was 4th June 2027.
+The quantity affected is 120 ampoules in our current inventory. We have immediately halted all usage of this batch across our clinical wards to prevent accidental injection of glass fragments. We expect a rapid investigation and recall.
+
+Sincerely,
+QA Director, Saint Jude Hospital Medical Center

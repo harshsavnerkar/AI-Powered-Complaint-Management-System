@@ -1,0 +1,15 @@
+From: Apex Healthcare Distributors <qa@apexhealthcare.com>
+Date: July 28, 2026
+Subject: COMPLAINT: Cracked Capsule Shells - Omeprazole 20mg, Batch OMP558
+To: quality.assurance@pharmaqms.com
+
+Dear Quality Assurance,
+
+We are writing to report a physical defect observed in Omeprazole 20mg delayed-release capsules, Batch Number OMP558. 
+Our warehouse team found that several bottles contained cracked capsule shells, with free-flowing white drug powder accumulated at the bottom of the containers. 
+
+According to our logs, the manufacturing date was 18th November 2024 and the expiry date was 17th November 2026.
+The affected quantity is 40 bottles. We have stopped distribution of this batch and placed all remaining stock in our quarantine storage. No patient complaints or adverse events have been reported to date.
+
+Regards,
+Inventory Quality Lead, Apex Healthcare

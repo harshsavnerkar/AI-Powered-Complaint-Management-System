@@ -1,0 +1,15 @@
+From: Clinical Research Center Coordinator <research@cliniccenter.org>
+Date: July 28, 2026
+Subject: COMPLAINT: Premature Disintegration - Prednisolone 5mg, Batch PRD202
+To: quality.control@pharmaqms.com
+
+Dear Quality Team,
+
+We are writing to report a dissolution concern regarding Prednisolone 5mg tablets, Batch Number PRD202. 
+Patients enrolled in our current clinical research study reported that these tablets disintegrate almost instantly upon placement on the tongue, even before swallowing. This makes them extremely bitter and difficult for elderly patients to take.
+
+The manufacturing date for this batch was 30th September 2025 and the expiry date was 29th September 2027.
+The quantity affected is 1500 tablets. Please investigate if there was a deviation in the binder concentration during tableting.
+
+Best regards,
+Clinical Trial QA Coordinator

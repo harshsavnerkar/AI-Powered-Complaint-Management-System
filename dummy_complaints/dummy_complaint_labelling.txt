@@ -1,0 +1,15 @@
+From: Hospital Dispensary QA <qa.dispensary@citygeneral.org>
+Date: July 28, 2026
+Subject: WARNING: Incorrect Labeling on Metformin 500mg - Batch MET882
+To: quality.control@pharmaqms.com
+
+Dear Supplier,
+
+We are notifying you of a packaging error observed on Metformin 500mg tablets, Batch Number MET882. 
+A hospital pharmacist noticed that the outer cartons are printed with 'Metformin 500mg', but the internal blister packaging labels state 'Metformin 850mg'. This mismatch is a critical patient hazard.
+
+According to the carton, the manufacturing date was 1st January 2026 and the expiry date was 31st December 2027.
+We have immediately locked down all remaining inventory (approximately 300 cartons) and halted distribution. We require a formal response regarding this labeling discrepancy.
+
+Sincerely,
+Quality Director, City General Hospital

@@ -1,0 +1,15 @@
+From: Valley Health Pharmacy <complaints@valleypharmacy.com>
+Date: July 28, 2026
+Subject: Customer Complaint: Lack of Efficacy in Atorvastatin 20mg - Batch ATV303
+To: quality.control@pharmaqms.com
+
+Dear Quality Team,
+
+We have received a walk-in customer complaint from a patient, Mr. John Davis, regarding Atorvastatin 20mg tablets, Batch Number ATV303. 
+The patient has been taking this medication for two months, but his recent lab results showed a sudden, unexplained spike in LDL cholesterol levels compared to his stable baseline. His doctor suspects a subpotency issue with this batch.
+
+The manufacturing date for this batch was 5th March 2025 and the expiry date was 4th March 2027.
+The quantity affected is 10 boxes (300 tablets). We have replaced his supply with a different batch and would like you to analyze the remaining samples.
+
+Best regards,
+Head Pharmacist, Valley Health

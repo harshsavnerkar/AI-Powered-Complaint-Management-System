@@ -1,0 +1,15 @@
+From: Clinical Logistics Quality <logistics@clinictrials.com>
+Date: July 28, 2026
+Subject: Critical: Foreign Black Particles in Sterile Saline Vials - Batch SAL441
+To: quality.assurance@pharmaqms.com
+
+Dear Quality Assurance,
+
+We are reporting a critical contamination issue in Sterile Normal Saline Vials (10mL), Batch Number SAL441. 
+Our nurses noticed small, floating black particles suspended inside the liquid of several unused glass vials during routine preparation for patient IV infusion. 
+
+The manufacturing date for this batch was 22nd July 2025 and the expiry date was 21st July 2027.
+The affected quantity is 50 vials. Fortunately, these were spotted before administration, so no patients were injected with the contaminated solution. We have quarantined the box.
+
+Best,
+Lead Clinical QA Coordinator
