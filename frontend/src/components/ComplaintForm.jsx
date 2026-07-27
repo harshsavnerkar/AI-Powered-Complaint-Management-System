@@ -106,16 +106,20 @@ export default function ComplaintForm({ extractedData }) {
       complaint_type : form.complaint_type,
       severity       : form.severity,
     }
-    await dispatch(submitComplaint(payload))
-    alert('✅ Complaint submitted successfully!')
-    setForm({
-      complaint_source: '', customer_name: '',
-      product_name: '', product_strength: '',
-      batch_number: '', manufacturing_date: '',
-      expiry_date: '', quantity_affected: '',
-      complaint_type: '', complaint_date: '',
-      description: '', severity: '', priority: '',
-    })
+    const result = await dispatch(submitComplaint(payload))
+    if (submitComplaint.fulfilled.match(result)) {
+      alert('✅ Complaint submitted successfully!')
+      setForm({
+        complaint_source: '', customer_name: '',
+        product_name: '', product_strength: '',
+        batch_number: '', manufacturing_date: '',
+        expiry_date: '', quantity_affected: '',
+        complaint_type: '', complaint_date: '',
+        description: '', severity: '', priority: '',
+      })
+    } else {
+      alert('❌ Error submitting complaint. Please check your connection or try again.')
+    }
   }
 
   return (
